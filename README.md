@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-PetLens
-https://petlens.app -> <p><img alt="PetLens" src="https://img.shields.io/website/https/petlens.app" />
+<h3>PetLens</h3>
+<p>
+<a href="https://petlens.app">PetLens pet image sharing application</a><img alt="PetLens" src="https://img.shields.io/website/https/petlens.app" />
+</p>
