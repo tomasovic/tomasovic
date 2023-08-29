@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-db7092?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
