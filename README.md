@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 PetLens
-https://petlens.app -> https://img.shields.io/website/https/petlens.app
+https://petlens.app -> <p><img alt="PetLens" src="https://img.shields.io/website/https/petlens.app" />
