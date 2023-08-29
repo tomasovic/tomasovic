@@ -53,5 +53,6 @@ Here are some ideas to get you started:
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img alt="Raspberrypi" src="https://img.shields.io/badge/-Raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
   <img alt="Apple" src="https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=apple&logoColor=white" />
 </p>
