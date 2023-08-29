@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3>Things I code with</h3>
+<h3>Things I work with</h3>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
