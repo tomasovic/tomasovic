@@ -57,6 +57,6 @@ Here are some ideas to get you started:
   <img alt="Apple" src="https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/milan-tomasovic/)
-</p>
+<br/>
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/milan-tomasovic/)
+
