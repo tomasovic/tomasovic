@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h3>PetLens</h3>
 <p>
 <a href="https://petlens.app">PetLens pet image sharing application</a>  <img alt="PetLens" src="https://img.shields.io/website/https/petlens.app" />
 </p>
-
+-->
 
 <h3>Things I work with</h3>
 <p>
