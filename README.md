@@ -60,3 +60,6 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/milan-tomasovic/)
 
+[![tomasovic's GitHub | Languages Over Time](https://stats.quine.sh/tomasovic/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=tomasovic)
+[![tomasovic's GitHub | Topics Over Time](https://stats.quine.sh/tomasovic/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=tomasovic)
+
